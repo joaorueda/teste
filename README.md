@@ -19,7 +19,6 @@ fique a vontade para explorar os repositórios, na maioria aqui foram treinament
 ### :trophy: Atualmente foco mais os meus projetos em java e angular. 
 
 
-## Entre em Contato
 ### Sinta-se à vontade para explorar os projetos ou entrar em contato
 
 - [LinkedIn](https://www.linkedin.com/in/joao-rueda-developer/)
